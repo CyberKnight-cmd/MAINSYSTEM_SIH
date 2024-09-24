@@ -84,6 +84,6 @@ print("Decoded String:", decoded)
 is_valid = processor.verify_hash(encoded, generated_hash)
 print("Hash Verification Result:", is_valid)
 
-# Processed String (splitting into components)
+# Processed String - Using the method properly
 processed = processedString(encoded)
 print("Processed String:", processed)
